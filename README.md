@@ -15,7 +15,7 @@ I am a 1st-year Computer Science undergraduate student at **UC San Diego** looki
 ### Featured Projects
 
 #### 🤖 [Real-Time Person Detector](https://github.com/LandonBisson/personDetector)
-*   **The Origin Story:** I engineered this custom "Ring-style" camera node during the 2026 UCSD Summer Engineering Institute (SEI) as a defensive counter-measure to track targets and avoid elimination in a "Senior Assassin" game.
+*   **Why I created this:** I engineered this custom "Ring-style" camera node during the 2026 UCSD Summer Engineering Institute (SEI) as a defensive counter-measure to track targets and avoid elimination in a "Senior Assassin" game.
 *   **Synopsis:** A lightweight computer vision application that processes live video streams to isolate human targets and push real-time alerts to a laptop terminal.
 *   **A Challenge Overcame:** I didn't want the tracking locked to my laptop's built-in webcam. As the project scope grew, I used it as an opportunity to learn how software communicates across networks for the first time—successfully routing a live wireless feed from my phone over local Wi-Fi directly into the YOLOv8 inference loop, triggering an asynchronous auditory beep upon detection.
 *   **Tech used:** Python, YOLOv8, OpenCV, Multithreading, IP Networking
