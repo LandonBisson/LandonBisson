@@ -8,7 +8,7 @@ I am a 1st-year Computer Science undergraduate student at **UC San Diego** looki
 *   **Languages I know best:** Python, Java
 *   **Tools & Environments:** Git/GitHub, OpenCV, PyTorch, Linux, VS Code, IntelliJ
 *   **Relevant Coursework:** CSE 8A, CSE 11, CSE 12, MATH 20A-20D *(Currently taking: CSE 20, CSE 29)*
-*   **Currently diving into:** ROS (Robot Operating System), C, and hardware-software integration.
+*   **Currently diving into:** C, Hardware-software integration.
 
 ---
 
@@ -39,6 +39,6 @@ I am a 1st-year Computer Science undergraduate student at **UC San Diego** looki
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 *   **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/landon-bisson/)
 *   **Email:** [lbisson@ucsd.edu](mailto:lbisson@ucsd.edu)
