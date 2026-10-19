@@ -1,6 +1,5 @@
 # Hi, I'm Landon Bisson! 
-
-I am a 1st-year Computer Science undergraduate student at **UC San Diego** looking to fully dedicate my time and learn as much as possible within an engineering organization.
+I am a 1st-year Computer Science undergraduate student at **UC San Diego** looking to get real experience within the field.
 
 ---
 
